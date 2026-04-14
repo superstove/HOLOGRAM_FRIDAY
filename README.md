@@ -18,9 +18,7 @@
 
 ---
 
-<div align="center">
-  <video src="https://github.com/superstove/HOLOGRAM_FRIDAY/raw/main/0122.mp4" width="100%" autoplay loop muted playsinline></video>
-</div>
+<video src="0122.mp4" autoplay loop muted playsinline width="100%"></video>
 
 ---
 
