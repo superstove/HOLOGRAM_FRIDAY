@@ -20,8 +20,6 @@
 
 <div align="center">
   <video src="0122.mp4" width="100%" autoplay loop muted playsinline controls></video>
-  <br>
-  <em>(If the preview video doesn't load above, you can find it as <code>0122.mp4</code> in the repository root).</em>
 </div>
 
 ---
