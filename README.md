@@ -18,7 +18,7 @@
 
 ---
 
-<video src="0122.mp4" autoplay loop muted playsinline width="100%"></video>
+![FRIDAY AI Demo](demo_preview.gif)
 
 ---
 
