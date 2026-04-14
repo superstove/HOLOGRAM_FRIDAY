@@ -19,7 +19,7 @@
 ---
 
 <div align="center">
-  <video src="0122.mp4" width="100%" autoplay loop muted playsinline controls></video>
+  <video src="https://github.com/superstove/HOLOGRAM_FRIDAY/raw/main/0122.mp4" width="100%" autoplay loop muted playsinline></video>
 </div>
 
 ---
