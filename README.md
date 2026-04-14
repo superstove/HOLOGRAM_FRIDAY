@@ -18,6 +18,14 @@
 
 ---
 
+<div align="center">
+  <video src="0122.mp4" width="100%" autoplay loop muted playsinline controls></video>
+  <br>
+  <em>(If the preview video doesn't load above, you can find it as <code>0122.mp4</code> in the repository root).</em>
+</div>
+
+---
+
 ## 📌 Table of Contents
 
 - [About the Project](#-about-the-project)
@@ -350,11 +358,7 @@ python gesture_control.py
 
 ## 🎬 Demo
 
-Watch the full system in action directly below:
-
-<video src="0122.mp4" width="100%" controls="controls"></video>
-
-*(If the video doesn't load automatically above, you can find it as `0122.mp4` in the root of the repository).*
+*(You can watch the full system in action in the auto-playing video at the top of this page!)*
 
 Core working flow:
 1. Run `python friday.py`
